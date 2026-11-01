@@ -1,0 +1,6 @@
+{
+  "status": "migrated-to-supabase",
+  "backend_target": "Supabase Auth + Postgres + Storage",
+  "ai_target": "OpenAI-compatible provider / Deterministic engine",
+  "rls_enabled": true
+}
